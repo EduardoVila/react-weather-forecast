@@ -59,6 +59,7 @@ aside.sidebar .search-container button {
   text-align: center;
   text-transform: uppercase;
   font-weight: bold;
+  outline: none;
 }
 
 aside.sidebar .latest-searches-container .search {
@@ -85,6 +86,7 @@ main {
   width: 75%;
   height: 100vh;
   margin-left: 25%;
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 main img {
